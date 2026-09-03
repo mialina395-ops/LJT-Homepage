@@ -1,0 +1,6 @@
+Personal Details: [Insert from memory]
+Academic Background: [Insert from memory]
+Research Experience: [Insert from memory]
+Publications: [Insert from memory]
+Skills: [Insert from memory]
+Contact Information: [Insert from memory]
