@@ -11,6 +11,57 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
+## About Me
+
+I am Junteng Liu, a first-year PhD candidate at HKUST NLP Group. My research focuses on natural language processing and machine learning, with particular interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability.
+
+### Education
+
+- Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology (HKUST)
+- B.Eng. (2020-2024) at Shanghai Jiao Tong University (graduated June 2024)
+
+### Research Experience
+
+- Research Intern at MINIMAX (February 2025 - Present)
+- Research Intern at Tencent WXG (June 2024 - September 2024)
+- Research Intern at Shanghai AI Lab (June 2023 - December 2023)
+
+### Publications
+
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) - First author. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. Published on Arxiv.
+
+2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) - First author. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. Published on Arxiv. Has GitHub code repository: Vision4Chart.
+
+3. **On the Universal Truthfulness Hyperplane Inside LLMs** (2024) - First author. Co-authors: Shiqi Chen, Yu Cheng, Junxian He. Published at EMNLP 2024. Has GitHub code repository: Universal_Truthfulness_Hyperplane.
+
+4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024). Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. Published at ICML 2024.
+
+5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (2023). Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. Published at NeurIPS 2023.
+
+6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023). Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. Published at NeurIPS 2023.
+
+### Skills
+
+- Natural Language Processing
+- Machine Learning
+- LLM Reasoning
+- Reinforcement Learning
+- Hallucination in Vision-Language Models
+- LLM Truthfulness
+- Interpretability
+
+### Awards
+
+- Zhiyuan Honor Scholarship at Shanghai Jiao Tong University
+
+### Contact Information
+
+- Email: jliugi@connect.ust.hk
+- GitHub: https://github.com/Vicent0205
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+- X (Twitter): @junteng88716710
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -53,4 +104,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.\n
